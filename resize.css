@@ -1,0 +1,10 @@
+@media (max-width: 1000px){
+  .wrapper{
+    visibility: hidden;
+  }
+  .hp{
+    visibility: visible;
+    color: white;
+    font-size: 120px;
+  }
+}
